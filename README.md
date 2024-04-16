@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s24/jpa02-Hannahshakouri01.git
 
-Deployed at: https://jpa02-hannahshakouri01.dokku-16.cs.ucsb.edu
+Deployed at: [https://jpa02-hannahshakouri01.dokku-16.cs.ucsb.edu](http://jpa02-hannahshakouri01.dokku-16.cs.ucsb.edu)
 
 
 # About this repo
